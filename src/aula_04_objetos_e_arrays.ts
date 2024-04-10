@@ -38,14 +38,14 @@ const concessionaria: Concessionaria = {
         {
             montadora: "Audi",
             modelo: "RS6",
-            anoFabricacao: 2024,
-            anoModelo: 2024,
+            anoFabricacao: 2016,
+            anoModelo: 2016,
         },
         {
             montadora: "Volkswagen",
             modelo: "Passat Variant",
-            anoFabricacao: 2024,
-            anoModelo: 2024,
+            anoFabricacao: 2014,
+            anoModelo: 2014,
         },
         {
             montadora: "Mercedes-Benz",
